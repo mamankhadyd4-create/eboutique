@@ -20,6 +20,9 @@ public class InitCategorie implements CommandLineRunner {
         produit.setNom("ELECTROMENAGER-DIOP-Khardiata");
 
 
+
+
+
         categorieRepository.save(produit);
 
 
