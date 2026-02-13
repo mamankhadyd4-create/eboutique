@@ -26,6 +26,8 @@ public class InitProduit implements CommandLineRunner {
 
     produitRepository.save(congelateur);
 
+    //test pull request
+
 
     }
 }
